@@ -1,0 +1,24 @@
+body {
+  color: #00b3b3;
+  text-align: center;
+  background-color: #ffcc66;
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+ul {
+  text-align: center;
+  font-weight: bold;
+}
+
+p {
+  font-family: monospace;
+  font-size: 18px;
+}
